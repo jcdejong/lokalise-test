@@ -1,0 +1,10 @@
+{
+    "index.placeholder": "",
+    "index.blabla": "",
+    "app.login.pass": "",
+    "app.users.active": {
+        "other": ""
+    },
+    "main.country": "countries",
+    "index.welcome": "欢迎来到Lokalise！ \n尝试点击任何“空白”翻译以查看内联机器翻译。"
+}
