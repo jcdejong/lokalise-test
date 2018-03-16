@@ -4,7 +4,10 @@
     "app.login.pass": "Password",
     "app.users.active": {
         "one": "Just one user online",
-        "other": "There are %d users online"
+        "other": "There are %d users online",
+        "two": "two",
+        "many": "many",
+        "few": "few"
     },
     "main.country": "Select countries",
     "index.welcome": "Welcome to Lokalise! \nTry to click any \"Empty\" translation to see inline machine translation."

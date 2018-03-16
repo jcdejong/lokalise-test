@@ -4,7 +4,10 @@
     "app.login.pass": "Wachtwoord",
     "app.users.active": {
         "one": "",
-        "other": ""
+        "other": "",
+        "two": "",
+        "many": "",
+        "few": ""
     },
     "main.country": "Sélectionnez les pays",
     "index.welcome": "Bonjour!"
